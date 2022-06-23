@@ -1,4 +1,3 @@
-baseURL = 'https://wenjietseng.github.io/paris-hci'
 languageCode = 'en-us'
 title = 'SIGCHI Paris'
 theme = 'mediumish-gohugo-theme'
@@ -6,6 +5,7 @@ summaryLength = 25
 copyright = "SIGCHI Paris - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
+baseURL = 'https://wenjietseng.com/paris-hci'
 #disqusShortname = "your-shortname-here"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
