@@ -5,7 +5,7 @@ summaryLength = 25
 copyright = "SIGCHI Paris - All rights reserved"
 enableEmoji = true
 publishDir = "docs"
-baseURL = 'https://wenjietseng.github.io/paris-hci'
+baseURL = 'https://sigchi-paris-web.github.io/paris-hci/'
 #disqusShortname = "your-shortname-here"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
