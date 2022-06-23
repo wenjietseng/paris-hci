@@ -1,0 +1,49 @@
+baseURL = 'https://wenjietseng.com/paris-hci'
+languageCode = 'en-us'
+title = 'SIGCHI Paris'
+theme = 'mediumish-gohugo-theme'
+summaryLength = 25
+copyright = "SIGCHI Paris - All rights reserved"
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  #logo = "/images/logo.png"
+  description ="the clean blog!"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+
+
+## Home
+[params.index]
+  #picture = "/images/author.png"
+  title = "SIGCHI Paris"
+  subtitle = "Human-Computer Interaction and Information Visualization"
+  mdtext = '''
+    The goal of the Parisian SIGCHI chapter is to provide a means for all HCI researchers and practitioners of
+    the Parisian region to come together, discuss topics in our field and promote collaboration. We hope to become
+    a default forum where we can meet for talks, publicize and organize hci related events in Paris, etc.
+    If you'd like to join us or learn more about SIGCHI Paris.
+  '''
+  alertbar = false
+
+## Menu bar
+[[menu.main]]
+    name = "Talks"
+    weight = 100
+    identifier = "talks"
+    url = "/talks"
+
+[[menu.main]]
+    name = "Events"
+    weight = 100
+    identifier = "events"
+    url = "/events"
+
+[[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    weight = 200
+    url = "/static/contact"

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIGCHI Paris</title>
+    <link>https://wenjietseng.com/paris-hci/</link>
+    <description>Recent content on SIGCHI Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>SIGCHI Paris - All rights reserved</copyright>
+    <lastBuildDate>Thu, 23 Jun 2022 10:22:41 +0200</lastBuildDate><atom:link href="https://wenjietseng.com/paris-hci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://wenjietseng.com/paris-hci/static/contact/</link>
+      <pubDate>Thu, 23 Jun 2022 10:22:41 +0200</pubDate>
+      
+      <guid>https://wenjietseng.com/paris-hci/static/contact/</guid>
+      <description>Join SIGCHI Paris If you are interested in joining SIGCHI Paris, write an email to SIGCHI-PARIS-OFFICERS [at] listserv.acm.org
+Contact Address ACM SIGCHI Paris Chapter Télécom Paris 19 place Marguerite Perey 91120 Palaiseau</description>
+    </item>
+    
+    <item>
+      <title>My First Post2</title>
+      <link>https://wenjietseng.com/paris-hci/events/my-first-post2/</link>
+      <pubDate>Thu, 23 Jun 2022 10:10:06 +0200</pubDate>
+      
+      <guid>https://wenjietseng.com/paris-hci/events/my-first-post2/</guid>
+      <description>an new event?</description>
+    </item>
+    
+    <item>
+      <title>My First Post2</title>
+      <link>https://wenjietseng.com/paris-hci/talks/my-first-post2/</link>
+      <pubDate>Thu, 23 Jun 2022 10:03:31 +0200</pubDate>
+      
+      <guid>https://wenjietseng.com/paris-hci/talks/my-first-post2/</guid>
+      <description>croissant ou pain au chocolat</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://wenjietseng.com/paris-hci/talks/my-first-post/</link>
+      <pubDate>Thu, 23 Jun 2022 10:03:12 +0200</pubDate>
+      
+      <guid>https://wenjietseng.com/paris-hci/talks/my-first-post/</guid>
+      <description>testing</description>
+    </item>
+    
+  </channel>
+</rss>
