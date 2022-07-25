@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SIGCHI Paris</title>
-    <link>https://sigchi-paris-web.github.io/paris-hci/tags/</link>
+    <link>https://wenjietseng.github.io/paris-hci/tags/</link>
     <description>Recent content in Tags on SIGCHI Paris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>SIGCHI Paris - All rights reserved</copyright><atom:link href="https://sigchi-paris-web.github.io/paris-hci/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>SIGCHI Paris - All rights reserved</copyright><atom:link href="https://wenjietseng.github.io/paris-hci/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
