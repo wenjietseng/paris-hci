@@ -1,4 +1,4 @@
-baseURL = 'https://wenjietseng.github.io/paris-hci/'
+baserul = 'https://wenjietseng.com/paris-hci/'
 publishDir = "docs"
 languageCode = 'en-us'
 title = 'SIGCHI Paris'

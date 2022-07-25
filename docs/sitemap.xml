@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wenjietseng.github.io/paris-hci/static/contact/</loc>
+    <loc>/static/contact/</loc>
     <lastmod>2022-06-23T10:22:41+02:00</lastmod>
   </url><url>
-    <loc>https://wenjietseng.github.io/paris-hci/</loc>
+    <loc>/</loc>
     <lastmod>2022-06-23T10:22:41+02:00</lastmod>
   </url><url>
-    <loc>https://wenjietseng.github.io/paris-hci/static/</loc>
+    <loc>/static/</loc>
     <lastmod>2022-06-23T10:22:41+02:00</lastmod>
   </url><url>
-    <loc>https://wenjietseng.github.io/paris-hci/events/</loc>
+    <loc>/events/</loc>
     <lastmod>2022-06-23T10:10:06+02:00</lastmod>
   </url><url>
-    <loc>https://wenjietseng.github.io/paris-hci/events/my-first-post2/</loc>
+    <loc>/events/my-first-post2/</loc>
     <lastmod>2022-06-23T10:10:06+02:00</lastmod>
   </url><url>
-    <loc>https://wenjietseng.github.io/paris-hci/talks/my-first-post2/</loc>
+    <loc>/talks/my-first-post2/</loc>
     <lastmod>2022-06-23T10:03:31+02:00</lastmod>
   </url><url>
-    <loc>https://wenjietseng.github.io/paris-hci/talks/</loc>
+    <loc>/talks/</loc>
     <lastmod>2022-06-23T10:03:31+02:00</lastmod>
   </url><url>
-    <loc>https://wenjietseng.github.io/paris-hci/talks/my-first-post/</loc>
+    <loc>/talks/my-first-post/</loc>
     <lastmod>2022-06-23T10:03:12+02:00</lastmod>
   </url><url>
-    <loc>https://wenjietseng.github.io/paris-hci/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://wenjietseng.github.io/paris-hci/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
