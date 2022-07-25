@@ -1,11 +1,13 @@
+baseURL = 'https://sigchi-paris-web.github.io/paris-hci/'
+publishDir = "docs"
 languageCode = 'en-us'
 title = 'SIGCHI Paris'
 theme = 'mediumish-gohugo-theme'
 summaryLength = 25
 copyright = "SIGCHI Paris - All rights reserved"
 enableEmoji = true
-publishDir = "docs"
-baseURL = 'https://sigchi-paris-web.github.io/paris-hci/'
+
+
 #disqusShortname = "your-shortname-here"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
@@ -13,7 +15,6 @@ baseURL = 'https://sigchi-paris-web.github.io/paris-hci/'
   #logo = "/images/logo.png"
   description ="the clean blog!"
   #mailchimp = "you can provide a mailchimp-link here"
-
 
 
 ## Home
